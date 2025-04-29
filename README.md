@@ -14,8 +14,8 @@ ChatWRP is a tool that allows users to upload research papers and chat with them
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/ChatWRP.git
-   cd ChatWRP
+   git clone https://github.com/itsmesauravk/Document-Summerizer-and-Chat-app.git
+   cd Document-Summerizer-and-Chat-app
    ```
 
 2. Install dependencies:
